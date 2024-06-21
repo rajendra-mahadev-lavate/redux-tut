@@ -1,0 +1,46 @@
+.cart-wrapper {
+    border: 1px solid red;
+    width: 500px;
+    height: 100px;
+    margin-left: 35%;
+    margin-top: 50px;
+}
+
+.item {
+    float: left;
+}
+
+.img-wrapper img {
+    height: 90px;
+    width: 90px;
+    margin: 5px 30px;
+}
+
+.text-wrapper {
+    margin-top: 40px;
+    margin-left: 10px;
+    
+}
+
+.text-wrapper span{
+    font-weight: bold;
+    margin: -5px 30px;
+    display: block;
+}
+
+.btn-wrapper button {
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: brown;
+    color: #fff;
+    margin: 30px 30px;
+    padding: 10px;
+}
+
+.add-to-cart img{
+    width: 50px;
+    position: absolute;
+    right: 1%;
+    top: 1%;
+}
